@@ -1,0 +1,5 @@
+-  Hi, I’m @JaideBaiden
+-  I’m interested in: learning a variety of Programming Languaes
+-  I’m currently learning HTML & CSS (I want to learn Js, C# & C++)
+-  How to reach me: jaidebaiden@gmail.com
+-  Pronouns: She/They
